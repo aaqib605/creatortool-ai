@@ -45,7 +45,7 @@ const FeatureSection = () => {
           alt="Tool icon"
         />
       </section>
-      <section className="flex flex-col mt-10 gap-5 px-16 max-w-[1200px] mx-auto">
+      <section className="flex flex-col mt-10 gap-5 px-5 md:px-16 max-w-[1200px] mx-auto">
         {features.slice(0, 2).map((feature) => (
           <div
             className="w-full max-md:max-w-full"

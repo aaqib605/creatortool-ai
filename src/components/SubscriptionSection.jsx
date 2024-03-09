@@ -1,6 +1,6 @@
 const SubscriptionSection = () => {
   return (
-    <section className="px-16">
+    <section className="px-5 md:px-16">
       <section className="flex flex-col px-20 py-10 my-16 rounded-xl border border-solid bg-[#FFFAFB] border-neutral-200 max-md:px-5 max-w-[1200px] mx-auto">
         <header className="flex gap-5 justify-between items-start font-semibold max-md:flex-wrap max-md:mr-2.5  ">
           <h1 className="flex-auto self-start text-3xl text-slate-900">
