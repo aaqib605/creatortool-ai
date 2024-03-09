@@ -13,6 +13,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <Route path="/second" element={<PostGenerator />} />
       </Routes>
     </Router>
-    <App />
   </React.StrictMode>
 );
